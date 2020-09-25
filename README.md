@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **Hexilee/Hexilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hexilee&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexilee&layout=compact&hide=python&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
