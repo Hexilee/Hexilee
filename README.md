@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Hexilee&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexilee&layout=compact&hide=python&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hexilee&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexilee&layout=compact&hide=python,html,css&langs_count=11)](https://github.com/anuraghazra/github-readme-stats)
